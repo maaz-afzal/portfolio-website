@@ -160,7 +160,7 @@ const Contact = () => {
           {/* Direct Links */}
           <div className="flex justify-center gap-4">
             <a
-              href="mailto:your@email.com"
+              href="mailto:maazafzal.khattak007@gmail.com"
               className="text-sm text-purple-400 border border-purple-500/30 px-5 py-2 rounded-full hover:bg-purple-500/10 transition duration-300"
             >
               Email
