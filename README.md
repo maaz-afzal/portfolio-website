@@ -1,4 +1,6 @@
-# Maaz Afzal — Portfolio
+<img width="1895" height="1070" alt="image" src="https://github.com/user-attachments/assets/e007ec2b-22d5-44cd-8807-e3fa0dc93fd5" />
+
+# My Portfolio
 
 A clean, responsive personal portfolio website built with React and Tailwind CSS.
 
