@@ -1,16 +1,41 @@
-# React + Vite
+# Maaz Afzal — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, responsive personal portfolio website built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+[maaz-afzal.github.io/portfolio-website](https://maaz-afzal.github.io/portfolio-website)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- Smooth scroll animations with Framer Motion
+- Fully responsive with mobile hamburger menu
+- Contact form with validation and EmailJS integration
+- Dark theme with purple accent
 
-## React Compiler
+## 🛠️ Tech Stack
+- React 19
+- Tailwind CSS v4
+- Framer Motion
+- EmailJS
+- Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📁 Projects Showcased
+- Recipe Finder
+- Notes App
+- Product Page
+- Weather App
+- Todo App
+- Music Player
 
-## Expanding the ESLint configuration
+## 🚀 Run Locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/maaz-afzal/portfolio-website.git
+cd portfolio-website
+npm install
+npm run dev
+```
+
+## 📬 Contact
+- Email: maazafzal.khattak007@gmail.com
+- LinkedIn: [linkedin.com/in/maazafzalkhan](https://linkedin.com/in/maazafzalkhan)
+- GitHub: [github.com/maaz-afzal](https://github.com/maaz-afzal)
